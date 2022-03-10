@@ -1,1 +1,5 @@
-# Trabalhos-1-G
+# Trabalhos
+
+## Equipe: Alunos 1G
+
+Professor: Eduardo
